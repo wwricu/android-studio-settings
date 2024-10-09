@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "ics"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1728475815685</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1728475815685</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="592" y="259" key="SettingsEditor" timestamp="1728475861880">
+          <screen x="0" y="0" width="2194" height="1234" />
+        </state>
+        <state x="592" y="259" key="SettingsEditor/0.0.2194.1234" timestamp="1728475861880" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,25 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1719150161135">Explain: FATAL EXCEPTION: main
+Process: icu.wwr.badproxy, PID: 18879
+java.lang.Error:
+
+There is an incompatible JNA native library installed on this system with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1719114020423">Explain: Failed to deliver inset control state change to w=Window{8918ba2 u0 icu.wwr.badproxy/icu.wwr.badproxy.MainActivity}
+android.os.DeadObjectException
+at android.os.BinderProxy.transactNative(Native Method)
+at android.os.BinderProxy.transact(BinderProxy.java:685)
+at android.view.IWindow$Stub$Proxy.insetsControlChanged(IWindow.java:498) with tag WindowManager</historyEntry>
+        <historyEntry timestamp="1719070366419">Explain: Exception when unbinding service icu.wwr.badproxy/.core.BadProxyService
+android.os.DeadObjectException
+at android.os.BinderProxy.transactNative(Native Method)
+at android.os.BinderProxy.transact(BinderProxy.java:685)
+at android.app.IApplicationThread$Stub$Proxy.scheduleUnbindService(IApplicationThread.java:1590) with tag ActivityManager</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

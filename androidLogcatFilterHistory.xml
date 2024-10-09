@@ -1,0 +1,15 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package=:icu.wwr.badproxy " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package=:icu.wwr.badproxy " />
+        <option value="package=:" />
+        <option value="package:icu.wwr" />
+        <option value="wwr" />
+        <option value="wwrf" />
+        <option value="icu.wwr" />
+      </list>
+    </option>
+  </component>
+</application>

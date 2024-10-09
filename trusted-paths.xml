@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\wwr\Documents\code\Android-VpnService-Demo" value="true" />
+        <entry key="C:\Users\wwr\Documents\code\Proxy" value="true" />
+        <entry key="C:\Users\wwr\Documents\code\Proxy2" value="true" />
+        <entry key="C:\Users\wwr\Documents\code\bad_proxy_app" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\wwr\Documents\code" />
+      </list>
+    </option>
+  </component>
+</application>
